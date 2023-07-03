@@ -1,3 +1,8 @@
 # ML-STUDY
 
-![Alt text](/asset/sigmoid.png)
+2023 / 07 / 03
+---------------------------------------
+
+
+
+![](/asset/sigmoid.png)
