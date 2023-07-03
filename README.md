@@ -2,8 +2,11 @@
 
 2023 / 07 / 03
 ---------------------------------------
-![](/asset/sigmoid.png)
+![](/asset/1.png)
 > sigmoid function
+
+![](/asset/2.png)
+> Binary step activation function
 
 
 
