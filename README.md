@@ -8,5 +8,7 @@
 ![](/asset/2.png)
 > Binary step activation function
 
+![](/asset/3.png)
+> Hyperbolic tangent function
 
 
